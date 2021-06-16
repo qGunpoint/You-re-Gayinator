@@ -1,3 +1,3 @@
 variable = True
-while Variable == True:
+while variable == True:
 	print("lmao you gay")
